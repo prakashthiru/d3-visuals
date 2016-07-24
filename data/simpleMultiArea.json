@@ -1,0 +1,44 @@
+[
+  {
+    "timescope": "02-09-2015",
+    "hockey": 17,
+    "cricket": 25,
+    "football": 18
+  },
+  {
+    "timescope": "03-09-2015",
+    "hockey": 20,
+    "cricket": 29,
+    "football": 16
+  },
+  {
+    "timescope": "04-09-2015",
+    "hockey": 27,
+    "cricket": 35,
+    "football": 27
+  },
+  {
+    "timescope": "05-09-2015",
+    "hockey": 15,
+    "cricket": 26,
+    "football": 25
+  },
+  {
+    "timescope": "06-09-2015",
+    "hockey": 29,
+    "cricket": 16,
+    "football": 21
+  },
+  {
+    "timescope": "07-09-2015",
+    "hockey": 20,
+    "cricket": 27,
+    "football": 34
+  },
+  {
+    "timescope": "08-09-2015",
+    "hockey": 16,
+    "cricket": 30,
+    "football": 25
+  }
+]
