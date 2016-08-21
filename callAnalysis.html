@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Call Analysis</title>
+  <script type="text/javascript" src="../libraries/jquery.js"></script>
+  <script type="text/javascript" src="../libraries/bootstrap.min.js"></script>
+  <script type="text/javascript" src="../libraries/crossfilter.min.js"></script>
+  <script type="text/javascript" src="../libraries/d3.min.js"></script>
+  <script type="text/javascript" src="../libraries/d3.tip.js"></script>
+  <link rel="stylesheet" type="text/css" href="../libraries/keen-dashboards.css">
+  <style>
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      stroke-width: '3px';
+      shape-rendering: crispEdges;
+    }
+
+    .d3-tip {
+      line-height: 1;
+      padding: 5px;
+      background-color: #4D4D4D;
+      color: #fff;
+      font-size: 12px;
+      border-radius: 2px;
+    }
+
+    .y .tick:first-child {
+      display: none;
+    }
+
+    .overview-circle {
+      fill:#1DA362;
+      opacity: 0.8;
+    }
+
+    .overview-circle:hover {
+      cursor: pointer;
+      opacity: 1;
+    }
+
+    .arc {
+      opacity: 0.8;
+    }
+
+    .arc:hover {
+      cursor: pointer; 
+      opacity: 1;
+    }
+
+    .bar {
+      fill: #4D8CF5;
+      opacity: 0.8;
+    }
+
+    .bar:hover {
+      cursor: pointer;
+      opacity: 1;
+    }
+
+    #group-stat .x.axis path, #channel-stat .x.axis path, #user-stat .x.axis path{
+      display: none;
+    }
+
+    #group-stat .x.axis text, #channel-stat .x.axis text, #user-stat .x.axis text{
+      font-size: 11px;
+    }
+
+    .chart-value {
+      font-size: 12px;
+    }
+
+    .value-stat-large {
+      font-size: 30px;
+      text-align: center;
+      color: #808080;
+    }
+
+    .conf-radio {
+      font-size: large;
+    }
+
+    div#voice-counter, div#video-counter{
+      min-height: 80px;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container-fluid dashboard-container">
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane" id="conf">
+        <div class="row">
+          <div class="col-md-5 no-pad-right">
+            <div id="voice-counter" class="chart-wrapper">
+              <div class="chart-title">
+                Total Number of Voice calls
+              </div>
+              <div class="chart-stage">
+                <p class="value-stat-large"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 no-pad-right">
+            <div id="video-counter" class="chart-wrapper">
+              <div class="chart-title">
+                Total Number of Video calls
+              </div>
+              <div class="chart-stage">
+                <p class="value-stat-large"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div id="call-metric" class="chart-wrapper conf-radio">
+              <div class="chart-stage center-align">
+                <input type="radio" name="call-metric" value="cost" checked> Cost<tb>
+                <input type="radio" name="call-metric" value="duration"> Duration
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-8 no-pad-right">
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Overview stats
+              </div>
+              <div class="chart-stage">
+                <div id="call-type" class="right-align">
+                  <input type="checkbox" name="call-type" value="voice" checked>Voice<tb>
+                  <input type="checkbox" name="call-type" value="video">Video
+                </div>
+                <div id="call-overview"></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div id="calltype-stat" class="chart-wrapper">
+              <div class="chart-title">
+                Analysis based on <span class="title-tag"></span>
+              </div>
+              <div class="chart-stage">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 content-holder">
+            <div class="row">
+              <div class="col-md-4 no-pad-right">
+                <div id="group-stat" class="chart-wrapper">
+                  <div class="chart-title">
+                    Group stats of <span class="title-tag"></span> call
+                  </div>
+                  <div class="chart-stage">
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 no-pad-left no-pad-right">
+                <div id="user-stat" class="chart-wrapper">
+                  <div class="chart-title">
+                    User stats of <span class="title-tag"></span> group
+                  </div>
+                  <div class="chart-stage">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="callAnalysis.js"></script>
+
+</body> 
