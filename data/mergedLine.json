@@ -1,0 +1,1294 @@
+{
+  "meta_data":
+  {
+    "change_over": "01/11/2015 00:00:00",
+    "x_text": "x label text",
+    "y_text": "y label text",
+    "legend_one": "Legend One Text",
+    "legend_two": "Legend Two Text"
+  },
+  "merge_data":[
+    {
+      "timescope": "30/10/2015 02:46:53",
+      "duration": 27.95
+    },
+    {
+      "timescope": "04/10/2015 03:26:08",
+      "duration": 17.22
+    },
+    {
+      "timescope": "20/10/2015 14:32:28",
+      "duration": 9.16
+    },
+    {
+      "timescope": "30/10/2015 04:15:13",
+      "duration": 30.18
+    },
+    {
+      "timescope": "19/10/2015 05:42:56",
+      "duration": 16.55
+    },
+    {
+      "timescope": "14/10/2015 23:20:30",
+      "duration": 24.54
+    },
+    {
+      "timescope": "25/10/2015 03:24:30",
+      "duration": 26.15
+    },
+    {
+      "timescope": "18/10/2015 13:54:32",
+      "duration": 25.03
+    },
+    {
+      "timescope": "08/10/2015 01:16:05",
+      "duration": 35.56
+    },
+    {
+      "timescope": "29/10/2015 02:55:03",
+      "duration": 18.75
+    },
+    {
+      "timescope": "24/10/2015 05:42:28",
+      "duration": 23.83
+    },
+    {
+      "timescope": "12/10/2015 14:37:53",
+      "duration": 25.58
+    },
+    {
+      "timescope": "30/10/2015 22:34:58",
+      "duration": 30.66
+    },
+    {
+      "timescope": "14/10/2015 01:42:49",
+      "duration": 35.85
+    },
+    {
+      "timescope": "03/10/2015 10:06:54",
+      "duration": 22.94
+    },
+    {
+      "timescope": "07/10/2015 08:27:40",
+      "duration": 36.8
+    },
+    {
+      "timescope": "10/10/2015 23:44:11",
+      "duration": 28.63
+    },
+    {
+      "timescope": "06/10/2015 13:56:27",
+      "duration": 17.22
+    },
+    {
+      "timescope": "21/10/2015 06:37:58",
+      "duration": 15.27
+    },
+    {
+      "timescope": "12/10/2015 02:20:08",
+      "duration": 24.11
+    },
+    {
+      "timescope": "15/10/2015 20:44:30",
+      "duration": 24.77
+    },
+    {
+      "timescope": "26/10/2015 16:28:42",
+      "duration": 32.25
+    },
+    {
+      "timescope": "10/10/2015 01:52:17",
+      "duration": 15.36
+    },
+    {
+      "timescope": "14/10/2015 07:16:04",
+      "duration": 6.85
+    },
+    {
+      "timescope": "29/10/2015 04:14:23",
+      "duration": 19.46
+    },
+    {
+      "timescope": "06/10/2015 16:21:58",
+      "duration": 34.71
+    },
+    {
+      "timescope": "04/10/2015 14:00:04",
+      "duration": 35.62
+    },
+    {
+      "timescope": "16/10/2015 00:27:16",
+      "duration": 27.67
+    },
+    {
+      "timescope": "25/10/2015 09:29:03",
+      "duration": 30.49
+    },
+    {
+      "timescope": "12/10/2015 10:50:57",
+      "duration": 33.67
+    },
+    {
+      "timescope": "22/10/2015 02:49:26",
+      "duration": 36.38
+    },
+    {
+      "timescope": "24/10/2015 18:53:16",
+      "duration": 17.15
+    },
+    {
+      "timescope": "06/10/2015 04:59:28",
+      "duration": 43.58
+    },
+    {
+      "timescope": "22/10/2015 13:53:32",
+      "duration": 37.4
+    },
+    {
+      "timescope": "06/10/2015 11:07:16",
+      "duration": 27.01
+    },
+    {
+      "timescope": "11/10/2015 13:01:56",
+      "duration": 23.2
+    },
+    {
+      "timescope": "30/10/2015 16:26:53",
+      "duration": 35.26
+    },
+    {
+      "timescope": "16/10/2015 04:44:03",
+      "duration": 28.07
+    },
+    {
+      "timescope": "22/10/2015 09:15:32",
+      "duration": 33.41
+    },
+    {
+      "timescope": "12/10/2015 19:03:34",
+      "duration": 22.26
+    },
+    {
+      "timescope": "17/10/2015 22:48:16",
+      "duration": 16.84
+    },
+    {
+      "timescope": "17/10/2015 06:17:23",
+      "duration": 27.88
+    },
+    {
+      "timescope": "13/10/2015 09:42:06",
+      "duration": 8.98
+    },
+    {
+      "timescope": "22/10/2015 01:47:28",
+      "duration": 16.31
+    },
+    {
+      "timescope": "22/10/2015 13:38:20",
+      "duration": 24.46
+    },
+    {
+      "timescope": "16/10/2015 16:56:31",
+      "duration": 23.32
+    },
+    {
+      "timescope": "19/10/2015 17:25:35",
+      "duration": 21.51
+    },
+    {
+      "timescope": "26/10/2015 12:45:17",
+      "duration": 24.74
+    },
+    {
+      "timescope": "07/10/2015 14:19:17",
+      "duration": 28.21
+    },
+    {
+      "timescope": "18/10/2015 06:11:14",
+      "duration": 15.43
+    },
+    {
+      "timescope": "18/10/2015 16:28:18",
+      "duration": 24.63
+    },
+    {
+      "timescope": "01/10/2015 10:48:32",
+      "duration": 28.63
+    },
+    {
+      "timescope": "02/10/2015 09:07:14",
+      "duration": 23.74
+    },
+    {
+      "timescope": "22/10/2015 13:20:42",
+      "duration": 15.79
+    },
+    {
+      "timescope": "06/10/2015 16:50:36",
+      "duration": 29.45
+    },
+    {
+      "timescope": "28/10/2015 15:13:53",
+      "duration": 23.99
+    },
+    {
+      "timescope": "04/10/2015 08:53:00",
+      "duration": 27.57
+    },
+    {
+      "timescope": "01/10/2015 01:07:04",
+      "duration": 38.13
+    },
+    {
+      "timescope": "03/10/2015 10:00:20",
+      "duration": 29.79
+    },
+    {
+      "timescope": "28/10/2015 13:36:19",
+      "duration": 31.16
+    },
+    {
+      "timescope": "24/10/2015 16:29:50",
+      "duration": 16.33
+    },
+    {
+      "timescope": "24/10/2015 05:08:43",
+      "duration": 32.39
+    },
+    {
+      "timescope": "06/10/2015 23:41:47",
+      "duration": 25.83
+    },
+    {
+      "timescope": "29/10/2015 09:28:57",
+      "duration": 29.06
+    },
+    {
+      "timescope": "08/10/2015 01:49:26",
+      "duration": 20.56
+    },
+    {
+      "timescope": "18/10/2015 01:46:13",
+      "duration": 26.16
+    },
+    {
+      "timescope": "27/10/2015 06:05:05",
+      "duration": 22.46
+    },
+    {
+      "timescope": "25/10/2015 07:31:42",
+      "duration": 29.79
+    },
+    {
+      "timescope": "01/10/2015 13:51:04",
+      "duration": 35.23
+    },
+    {
+      "timescope": "06/10/2015 08:01:21",
+      "duration": 36.85
+    },
+    {
+      "timescope": "09/10/2015 16:32:14",
+      "duration": 20.41
+    },
+    {
+      "timescope": "16/10/2015 18:20:53",
+      "duration": 27.58
+    },
+    {
+      "timescope": "15/10/2015 01:47:39",
+      "duration": 36.35
+    },
+    {
+      "timescope": "30/10/2015 19:46:54",
+      "duration": 29.76
+    },
+    {
+      "timescope": "02/10/2015 19:33:21",
+      "duration": 13.06
+    },
+    {
+      "timescope": "27/10/2015 09:26:11",
+      "duration": 22.12
+    },
+    {
+      "timescope": "25/10/2015 22:53:39",
+      "duration": 20
+    },
+    {
+      "timescope": "03/10/2015 04:48:59",
+      "duration": 28.44
+    },
+    {
+      "timescope": "13/10/2015 21:30:47",
+      "duration": 32.87
+    },
+    {
+      "timescope": "10/10/2015 00:56:12",
+      "duration": 30.92
+    },
+    {
+      "timescope": "03/10/2015 20:53:38",
+      "duration": 18.8
+    },
+    {
+      "timescope": "26/10/2015 18:00:05",
+      "duration": 29.75
+    },
+    {
+      "timescope": "03/10/2015 03:09:00",
+      "duration": 35.68
+    },
+    {
+      "timescope": "02/10/2015 16:23:47",
+      "duration": 28.85
+    },
+    {
+      "timescope": "06/10/2015 05:51:01",
+      "duration": 30.15
+    },
+    {
+      "timescope": "05/10/2015 13:24:56",
+      "duration": 16.16
+    },
+    {
+      "timescope": "21/10/2015 20:56:07",
+      "duration": 20.01
+    },
+    {
+      "timescope": "26/10/2015 04:32:22",
+      "duration": 29.66
+    },
+    {
+      "timescope": "17/10/2015 20:39:09",
+      "duration": 20.81
+    },
+    {
+      "timescope": "23/10/2015 10:03:34",
+      "duration": 16.72
+    },
+    {
+      "timescope": "13/10/2015 22:12:25",
+      "duration": 18.45
+    },
+    {
+      "timescope": "21/10/2015 01:49:05",
+      "duration": 28.1
+    },
+    {
+      "timescope": "14/10/2015 23:08:34",
+      "duration": 28.92
+    },
+    {
+      "timescope": "06/10/2015 12:23:06",
+      "duration": 22.51
+    },
+    {
+      "timescope": "01/10/2015 07:02:53",
+      "duration": 25.8
+    },
+    {
+      "timescope": "11/10/2015 19:58:07",
+      "duration": 37.83
+    },
+    {
+      "timescope": "28/10/2015 08:39:58",
+      "duration": 20.19
+    },
+    {
+      "timescope": "28/10/2015 20:32:29",
+      "duration": 25.35
+    },
+    {
+      "timescope": "02/10/2015 12:50:41",
+      "duration": 29.44
+    },
+    {
+      "timescope": "06/10/2015 09:23:00",
+      "duration": 18.12
+    },
+    {
+      "timescope": "18/11/2015 18:09:36",
+      "duration": 7.78
+    },
+    {
+      "timescope": "15/11/2015 02:06:15",
+      "duration": 12.29
+    },
+    {
+      "timescope": "01/11/2015 10:32:10",
+      "duration": 14.89
+    },
+    {
+      "timescope": "05/11/2015 02:58:39",
+      "duration": 11.46
+    },
+    {
+      "timescope": "02/11/2015 03:07:51",
+      "duration": 16.94
+    },
+    {
+      "timescope": "10/11/2015 06:50:16",
+      "duration": 26.24
+    },
+    {
+      "timescope": "01/11/2015 06:27:20",
+      "duration": 7.83
+    },
+    {
+      "timescope": "01/11/2015 11:01:02",
+      "duration": 12.86
+    },
+    {
+      "timescope": "18/11/2015 08:04:12",
+      "duration": 38.8
+    },
+    {
+      "timescope": "17/11/2015 04:59:39",
+      "duration": 11.42
+    },
+    {
+      "timescope": "15/11/2015 11:15:05",
+      "duration": 5.82
+    },
+    {
+      "timescope": "10/11/2015 02:15:03",
+      "duration": 9.54
+    },
+    {
+      "timescope": "13/11/2015 22:40:15",
+      "duration": 16.04
+    },
+    {
+      "timescope": "19/11/2015 04:05:04",
+      "duration": 13.18
+    },
+    {
+      "timescope": "03/11/2015 01:33:22",
+      "duration": 12.89
+    },
+    {
+      "timescope": "11/11/2015 11:53:24",
+      "duration": 14.27
+    },
+    {
+      "timescope": "07/11/2015 02:59:19",
+      "duration": 19.93
+    },
+    {
+      "timescope": "14/11/2015 18:05:42",
+      "duration": 25.75
+    },
+    {
+      "timescope": "03/11/2015 23:09:19",
+      "duration": 10.24
+    },
+    {
+      "timescope": "03/11/2015 20:41:54",
+      "duration": 9.74
+    },
+    {
+      "timescope": "04/11/2015 05:08:23",
+      "duration": 15.33
+    },
+    {
+      "timescope": "05/11/2015 03:29:26",
+      "duration": 14.22
+    },
+    {
+      "timescope": "19/11/2015 02:54:09",
+      "duration": 16.14
+    },
+    {
+      "timescope": "06/11/2015 07:02:18",
+      "duration": 19.95
+    },
+    {
+      "timescope": "09/11/2015 01:31:17",
+      "duration": 16.99
+    },
+    {
+      "timescope": "04/11/2015 04:12:59",
+      "duration": 13.48
+    },
+    {
+      "timescope": "19/11/2015 08:24:49",
+      "duration": 14.31
+    },
+    {
+      "timescope": "05/11/2015 09:49:49",
+      "duration": 11.14
+    },
+    {
+      "timescope": "16/11/2015 05:10:15",
+      "duration": 16.23
+    },
+    {
+      "timescope": "05/11/2015 23:08:23",
+      "duration": 16.13
+    },
+    {
+      "timescope": "19/11/2015 16:14:17",
+      "duration": 27.62
+    },
+    {
+      "timescope": "03/11/2015 19:10:51",
+      "duration": 9.39
+    },
+    {
+      "timescope": "06/11/2015 23:38:51",
+      "duration": 13.62
+    },
+    {
+      "timescope": "01/11/2015 12:50:25",
+      "duration": 16.21
+    },
+    {
+      "timescope": "17/11/2015 08:12:59",
+      "duration": 8.26
+    },
+    {
+      "timescope": "13/11/2015 03:27:41",
+      "duration": 16.76
+    },
+    {
+      "timescope": "09/11/2015 21:33:36",
+      "duration": 18.38
+    },
+    {
+      "timescope": "17/11/2015 17:07:31",
+      "duration": 11.08
+    },
+    {
+      "timescope": "18/11/2015 13:44:39",
+      "duration": 11.61
+    },
+    {
+      "timescope": "13/11/2015 21:03:23",
+      "duration": 19.21
+    },
+    {
+      "timescope": "07/11/2015 19:53:11",
+      "duration": 6
+    },
+    {
+      "timescope": "15/11/2015 09:25:29",
+      "duration": 18.14
+    },
+    {
+      "timescope": "14/11/2015 12:36:49",
+      "duration": 18.39
+    },
+    {
+      "timescope": "15/11/2015 12:17:20",
+      "duration": 19.88
+    },
+    {
+      "timescope": "03/11/2015 08:20:11",
+      "duration": 14.18
+    },
+    {
+      "timescope": "19/11/2015 16:23:57",
+      "duration": 12
+    },
+    {
+      "timescope": "18/11/2015 21:11:50",
+      "duration": 6.59
+    },
+    {
+      "timescope": "17/11/2015 00:38:38",
+      "duration": 11.6
+    },
+    {
+      "timescope": "08/11/2015 03:16:59",
+      "duration": 10.63
+    },
+    {
+      "timescope": "09/11/2015 17:02:47",
+      "duration": 15.31
+    },
+    {
+      "timescope": "18/11/2015 14:09:21",
+      "duration": 16.25
+    },
+    {
+      "timescope": "13/11/2015 10:19:33",
+      "duration": 17.05
+    },
+    {
+      "timescope": "06/11/2015 21:42:19",
+      "duration": 19.37
+    },
+    {
+      "timescope": "04/11/2015 14:08:44",
+      "duration": 17.98
+    },
+    {
+      "timescope": "12/11/2015 05:15:09",
+      "duration": 19.14
+    },
+    {
+      "timescope": "11/11/2015 21:27:49",
+      "duration": 9.38
+    },
+    {
+      "timescope": "03/11/2015 09:32:50",
+      "duration": 9.34
+    },
+    {
+      "timescope": "02/11/2015 02:48:36",
+      "duration": 10.52
+    },
+    {
+      "timescope": "14/11/2015 12:40:32",
+      "duration": 12.34
+    },
+    {
+      "timescope": "06/11/2015 22:52:12",
+      "duration": 6.36
+    }
+  ],
+  "issue_data":[
+    {
+      "timescope": "30/10/2015 02:46:53",
+      "duration": 27.95
+    },
+    {
+      "timescope": "04/10/2015 03:26:08",
+      "duration": 17.22
+    },
+    {
+      "timescope": "20/10/2015 14:32:28",
+      "duration": 9.16
+    },
+    {
+      "timescope": "30/10/2015 04:15:13",
+      "duration": 20.18
+    },
+    {
+      "timescope": "19/10/2015 05:42:56",
+      "duration": 16.55
+    },
+    {
+      "timescope": "14/10/2015 23:20:30",
+      "duration": 24.54
+    },
+    {
+      "timescope": "25/10/2015 03:24:30",
+      "duration": 26.15
+    },
+    {
+      "timescope": "18/10/2015 13:54:32",
+      "duration": 25.03
+    },
+    {
+      "timescope": "08/10/2015 01:16:05",
+      "duration": 25.56
+    },
+    {
+      "timescope": "29/10/2015 02:55:03",
+      "duration": 18.75
+    },
+    {
+      "timescope": "24/10/2015 05:42:28",
+      "duration": 23.83
+    },
+    {
+      "timescope": "09/10/2015 14:37:53",
+      "duration": 25.58
+    },
+    {
+      "timescope": "30/10/2015 22:34:58",
+      "duration": 20.66
+    },
+    {
+      "timescope": "14/10/2015 01:42:49",
+      "duration": 25.85
+    },
+    {
+      "timescope": "03/10/2015 10:06:54",
+      "duration": 22.94
+    },
+    {
+      "timescope": "07/10/2015 08:27:40",
+      "duration": 26.8
+    },
+    {
+      "timescope": "10/10/2015 23:44:08",
+      "duration": 28.63
+    },
+    {
+      "timescope": "06/10/2015 13:56:27",
+      "duration": 17.22
+    },
+    {
+      "timescope": "21/10/2015 06:37:58",
+      "duration": 15.27
+    },
+    {
+      "timescope": "09/10/2015 02:20:08",
+      "duration": 24.08
+    },
+    {
+      "timescope": "15/10/2015 20:44:30",
+      "duration": 24.77
+    },
+    {
+      "timescope": "26/10/2015 16:28:42",
+      "duration": 22.25
+    },
+    {
+      "timescope": "10/10/2015 01:52:17",
+      "duration": 15.36
+    },
+    {
+      "timescope": "14/10/2015 07:16:04",
+      "duration": 6.85
+    },
+    {
+      "timescope": "29/10/2015 04:14:23",
+      "duration": 19.46
+    },
+    {
+      "timescope": "06/10/2015 16:21:58",
+      "duration": 24.71
+    },
+    {
+      "timescope": "04/10/2015 14:00:04",
+      "duration": 25.62
+    },
+    {
+      "timescope": "16/10/2015 00:27:16",
+      "duration": 27.67
+    },
+    {
+      "timescope": "25/10/2015 09:29:03",
+      "duration": 20.49
+    },
+    {
+      "timescope": "09/10/2015 10:50:57",
+      "duration": 23.67
+    },
+    {
+      "timescope": "22/10/2015 02:49:26",
+      "duration": 26.38
+    },
+    {
+      "timescope": "24/10/2015 18:53:16",
+      "duration": 17.15
+    },
+    {
+      "timescope": "06/10/2015 04:59:28",
+      "duration": 23.58
+    },
+    {
+      "timescope": "22/10/2015 13:53:32",
+      "duration": 27.4
+    },
+    {
+      "timescope": "06/10/2015 08:07:16",
+      "duration": 27.01
+    },
+    {
+      "timescope": "08/10/2015 13:01:56",
+      "duration": 23.2
+    },
+    {
+      "timescope": "30/10/2015 16:26:53",
+      "duration": 25.26
+    },
+    {
+      "timescope": "16/10/2015 04:44:03",
+      "duration": 28.07
+    },
+    {
+      "timescope": "22/10/2015 09:15:32",
+      "duration": 23.41
+    },
+    {
+      "timescope": "09/10/2015 19:03:34",
+      "duration": 22.26
+    },
+    {
+      "timescope": "17/10/2015 22:48:16",
+      "duration": 16.84
+    },
+    {
+      "timescope": "17/10/2015 06:17:23",
+      "duration": 27.88
+    },
+    {
+      "timescope": "13/10/2015 09:42:06",
+      "duration": 8.98
+    },
+    {
+      "timescope": "22/10/2015 01:47:28",
+      "duration": 16.31
+    },
+    {
+      "timescope": "22/10/2015 13:38:20",
+      "duration": 24.46
+    },
+    {
+      "timescope": "16/10/2015 16:56:31",
+      "duration": 23.32
+    },
+    {
+      "timescope": "19/10/2015 17:25:35",
+      "duration": 21.51
+    },
+    {
+      "timescope": "26/10/2015 09:45:17",
+      "duration": 24.74
+    },
+    {
+      "timescope": "07/10/2015 14:19:17",
+      "duration": 28.21
+    },
+    {
+      "timescope": "18/10/2015 06:08:14",
+      "duration": 15.43
+    },
+    {
+      "timescope": "18/10/2015 16:28:18",
+      "duration": 24.63
+    },
+    {
+      "timescope": "01/10/2015 10:48:32",
+      "duration": 28.63
+    },
+    {
+      "timescope": "02/10/2015 09:07:14",
+      "duration": 23.74
+    },
+    {
+      "timescope": "22/10/2015 13:20:42",
+      "duration": 15.79
+    },
+    {
+      "timescope": "06/10/2015 16:50:36",
+      "duration": 29.45
+    },
+    {
+      "timescope": "28/10/2015 15:13:53",
+      "duration": 23.99
+    },
+    {
+      "timescope": "04/10/2015 08:53:00",
+      "duration": 27.57
+    },
+    {
+      "timescope": "01/10/2015 01:07:04",
+      "duration": 28.13
+    },
+    {
+      "timescope": "03/10/2015 10:00:20",
+      "duration": 29.79
+    },
+    {
+      "timescope": "28/10/2015 13:36:19",
+      "duration": 21.16
+    },
+    {
+      "timescope": "24/10/2015 16:29:50",
+      "duration": 16.33
+    },
+    {
+      "timescope": "24/10/2015 05:08:43",
+      "duration": 22.39
+    },
+    {
+      "timescope": "06/10/2015 23:41:47",
+      "duration": 25.83
+    },
+    {
+      "timescope": "29/10/2015 09:28:57",
+      "duration": 29.06
+    },
+    {
+      "timescope": "08/10/2015 01:49:26",
+      "duration": 20.56
+    },
+    {
+      "timescope": "18/10/2015 01:46:13",
+      "duration": 26.16
+    },
+    {
+      "timescope": "27/10/2015 06:05:05",
+      "duration": 22.46
+    },
+    {
+      "timescope": "25/10/2015 07:31:42",
+      "duration": 29.79
+    },
+    {
+      "timescope": "01/10/2015 13:51:04",
+      "duration": 25.23
+    },
+    {
+      "timescope": "06/10/2015 08:01:21",
+      "duration": 26.85
+    },
+    {
+      "timescope": "09/10/2015 16:32:14",
+      "duration": 20.41
+    },
+    {
+      "timescope": "16/10/2015 18:20:53",
+      "duration": 27.58
+    },
+    {
+      "timescope": "15/10/2015 01:47:39",
+      "duration": 26.35
+    },
+    {
+      "timescope": "30/10/2015 19:46:54",
+      "duration": 29.76
+    },
+    {
+      "timescope": "02/10/2015 19:33:21",
+      "duration": 13.06
+    },
+    {
+      "timescope": "27/10/2015 09:26:08",
+      "duration": 22.09
+    },
+    {
+      "timescope": "25/10/2015 22:53:39",
+      "duration": 20
+    },
+    {
+      "timescope": "03/10/2015 04:48:59",
+      "duration": 28.44
+    },
+    {
+      "timescope": "13/10/2015 21:30:47",
+      "duration": 22.87
+    },
+    {
+      "timescope": "10/10/2015 00:56:09",
+      "duration": 20.92
+    },
+    {
+      "timescope": "03/10/2015 20:53:38",
+      "duration": 18.8
+    },
+    {
+      "timescope": "26/10/2015 18:00:05",
+      "duration": 29.75
+    },
+    {
+      "timescope": "03/10/2015 03:09:00",
+      "duration": 25.68
+    },
+    {
+      "timescope": "02/10/2015 16:23:47",
+      "duration": 28.85
+    },
+    {
+      "timescope": "06/10/2015 05:51:01",
+      "duration": 20.15
+    },
+    {
+      "timescope": "05/10/2015 13:24:56",
+      "duration": 16.16
+    },
+    {
+      "timescope": "21/10/2015 20:56:07",
+      "duration": 20.01
+    },
+    {
+      "timescope": "26/10/2015 04:32:22",
+      "duration": 29.66
+    },
+    {
+      "timescope": "17/10/2015 20:39:09",
+      "duration": 20.81
+    },
+    {
+      "timescope": "23/10/2015 10:03:34",
+      "duration": 16.72
+    },
+    {
+      "timescope": "13/10/2015 22:09:25",
+      "duration": 18.45
+    },
+    {
+      "timescope": "21/10/2015 01:49:05",
+      "duration": 28.1
+    },
+    {
+      "timescope": "14/10/2015 23:08:34",
+      "duration": 28.92
+    },
+    {
+      "timescope": "06/10/2015 09:23:06",
+      "duration": 22.51
+    },
+    {
+      "timescope": "01/10/2015 07:02:53",
+      "duration": 25.8
+    },
+    {
+      "timescope": "08/10/2015 19:58:07",
+      "duration": 27.83
+    },
+    {
+      "timescope": "28/10/2015 08:39:58",
+      "duration": 20.19
+    },
+    {
+      "timescope": "28/10/2015 20:32:29",
+      "duration": 25.35
+    },
+    {
+      "timescope": "02/10/2015 09:50:41",
+      "duration": 29.44
+    },
+    {
+      "timescope": "06/10/2015 09:23:00",
+      "duration": 18.09
+    },
+    {
+      "timescope": "18/11/2015 18:09:36",
+      "duration": 7.78
+    },
+    {
+      "timescope": "15/11/2015 02:06:15",
+      "duration": 9.29
+    },
+    {
+      "timescope": "01/11/2015 10:32:10",
+      "duration": 14.89
+    },
+    {
+      "timescope": "05/11/2015 02:58:39",
+      "duration": 8.46
+    },
+    {
+      "timescope": "02/11/2015 03:07:51",
+      "duration": 16.94
+    },
+    {
+      "timescope": "10/11/2015 06:50:16",
+      "duration": 26.24
+    },
+    {
+      "timescope": "01/11/2015 06:27:20",
+      "duration": 2.83
+    },
+    {
+      "timescope": "01/11/2015 08:01:02",
+      "duration": 9.86
+    },
+    {
+      "timescope": "18/11/2015 08:04:09",
+      "duration": 28.8
+    },
+    {
+      "timescope": "17/11/2015 04:59:39",
+      "duration": 8.42
+    },
+    {
+      "timescope": "15/11/2015 08:15:05",
+      "duration": 2.82
+    },
+    {
+      "timescope": "10/11/2015 02:15:03",
+      "duration": 9.54
+    },
+    {
+      "timescope": "13/11/2015 22:40:15",
+      "duration": 16.04
+    },
+    {
+      "timescope": "19/11/2015 04:05:04",
+      "duration": 13.18
+    },
+    {
+      "timescope": "03/11/2015 01:33:22",
+      "duration": 9.89
+    },
+    {
+      "timescope": "08/11/2015 08:53:24",
+      "duration": 14.27
+    },
+    {
+      "timescope": "07/11/2015 02:59:19",
+      "duration": 19.93
+    },
+    {
+      "timescope": "14/11/2015 18:05:42",
+      "duration": 25.75
+    },
+    {
+      "timescope": "03/11/2015 23:09:19",
+      "duration": 10.24
+    },
+    {
+      "timescope": "03/11/2015 20:41:54",
+      "duration": 9.74
+    },
+    {
+      "timescope": "04/11/2015 05:08:23",
+      "duration": 15.33
+    },
+    {
+      "timescope": "05/11/2015 03:29:26",
+      "duration": 14.22
+    },
+    {
+      "timescope": "19/11/2015 02:54:09",
+      "duration": 16.14
+    },
+    {
+      "timescope": "06/11/2015 07:02:18",
+      "duration": 19.95
+    },
+    {
+      "timescope": "09/11/2015 01:31:17",
+      "duration": 16.99
+    },
+    {
+      "timescope": "04/11/2015 04:09:59",
+      "duration": 13.48
+    },
+    {
+      "timescope": "19/11/2015 08:24:49",
+      "duration": 14.31
+    },
+    {
+      "timescope": "05/11/2015 09:49:49",
+      "duration": 8.14
+    },
+    {
+      "timescope": "16/11/2015 05:10:15",
+      "duration": 16.23
+    },
+    {
+      "timescope": "05/11/2015 23:08:23",
+      "duration": 16.13
+    },
+    {
+      "timescope": "19/11/2015 16:14:17",
+      "duration": 27.62
+    },
+    {
+      "timescope": "03/11/2015 19:10:51",
+      "duration": 9.39
+    },
+    {
+      "timescope": "06/11/2015 23:38:51",
+      "duration": 13.62
+    },
+    {
+      "timescope": "01/11/2015 09:50:25",
+      "duration": 16.21
+    },
+    {
+      "timescope": "17/11/2015 08:09:59",
+      "duration": 8.26
+    },
+    {
+      "timescope": "13/11/2015 03:27:41",
+      "duration": 16.76
+    },
+    {
+      "timescope": "09/11/2015 21:33:36",
+      "duration": 18.38
+    },
+    {
+      "timescope": "17/11/2015 17:07:31",
+      "duration": 8.08
+    },
+    {
+      "timescope": "18/11/2015 13:44:39",
+      "duration": 8.61
+    },
+    {
+      "timescope": "13/11/2015 21:03:23",
+      "duration": 19.21
+    },
+    {
+      "timescope": "07/11/2015 19:53:08",
+      "duration": 6
+    },
+    {
+      "timescope": "15/11/2015 09:25:29",
+      "duration": 18.14
+    },
+    {
+      "timescope": "14/11/2015 09:36:49",
+      "duration": 18.39
+    },
+    {
+      "timescope": "15/11/2015 09:17:20",
+      "duration": 19.88
+    },
+    {
+      "timescope": "03/11/2015 08:20:08",
+      "duration": 14.18
+    },
+    {
+      "timescope": "19/11/2015 16:23:57",
+      "duration": 9
+    },
+    {
+      "timescope": "18/11/2015 21:08:50",
+      "duration": 6.59
+    },
+    {
+      "timescope": "17/11/2015 00:38:38",
+      "duration": 8.6
+    },
+    {
+      "timescope": "08/11/2015 03:16:59",
+      "duration": 10.63
+    },
+    {
+      "timescope": "09/11/2015 17:02:47",
+      "duration": 15.31
+    },
+    {
+      "timescope": "18/11/2015 14:09:21",
+      "duration": 16.25
+    },
+    {
+      "timescope": "13/11/2015 10:19:33",
+      "duration": 17.05
+    },
+    {
+      "timescope": "06/11/2015 21:42:19",
+      "duration": 19.37
+    },
+    {
+      "timescope": "04/11/2015 14:08:44",
+      "duration": 17.98
+    },
+    {
+      "timescope": "09/11/2015 05:15:09",
+      "duration": 19.14
+    },
+    {
+      "timescope": "08/11/2015 21:27:49",
+      "duration": 9.38
+    },
+    {
+      "timescope": "03/11/2015 09:32:50",
+      "duration": 9.34
+    },
+    {
+      "timescope": "02/11/2015 02:48:36",
+      "duration": 10.52
+    },
+    {
+      "timescope": "14/11/2015 09:40:32",
+      "duration": 9.34
+    },
+    {
+      "timescope": "06/11/2015 22:52:09",
+      "duration": 6.36
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Git Response Analysis</title>
+		<script type="text/javascript" src="../libraries/jquery.js"></script>
+		<script type="text/javascript" src="../libraries/d3.min.js"></script>
+		<style>
+
+			body {
+      font-size: 15px;
+      font-family: Myriad Pro;
+      font-style: none;
+	    }
+
+			.axis path,
+			.axis line {
+				fill: none;
+				stroke: #A0A0A0;
+				shape-rendering: crispEdges;
+			}
+
+			.line {
+				fill: none;
+				stroke-width: 2px;
+			}
+
+			.line.one {
+				stroke: #4682B8;
+			}
+
+			.line.two, .line.joiner {
+				stroke: #A5D22D;
+			}
+
+			.grid {
+				stroke: #E6E6E6;
+			}
+
+			.y.axis path {
+	      display: none;
+	    }
+
+			.axis text {
+				font-size: 12px;
+			}
+
+			.legend text, .axis .label {
+				font-size: 14px;	
+			}
+
+		</style>
+	</head>
+
+	<body>
+		<div class="row graphs-row">
+			<article class="col-sm-12 response-analysis">
+				<div id="response-analysis">
+					<div id="merge-response">
+						<p class="xtra-margin">RESPONSIVENESS TO MERGE REQUESTS</p>
+					</div>
+					<div id="issue-response">
+						<p class="xtra-margin">RESPONSIVENESS TO ISSUE CLOSER</p>
+					</div>
+				</div>
+			</article>
+		</div>
+		<script type="text/javascript" src="../js/mergedLine.js" ></script>
+	</body>
+
+</html>
