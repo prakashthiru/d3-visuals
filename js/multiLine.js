@@ -58,7 +58,7 @@ var svgContainer = d3.select("body").append("svg")
   .attr("transform", "translate(" + margin.left + "," + margin.top*0.15 + ")")
   .attr("class", 'container-g');
 
-d3.json("data/multiLine.json", function(error, data) {
+d3.json("../data/multiLine.json", function(error, data) {
   var tempData=d3.entries(data);
 
   var dataset=[];

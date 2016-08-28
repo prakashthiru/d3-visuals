@@ -40,7 +40,7 @@ var area = d3.svg.area()
   .y0(height)
   .y1(function(d) { return yScale(d.response); });
 
-d3.json("data/simpleMultiArea.json", function(error, data) {
+d3.json("../data/multiArea.json", function(error, data) {
 
   data.forEach(function(d) {
     d.timescope = parseDate(d.timescope);
@@ -99,17 +99,20 @@ function createChart(dataset) {
     .data(dataset)
     .enter().append("g")
     .attr("class", "legend")
-    .attr("transform", function(d, i) { return "translate(0," + i * 30 + ")"; });
+    .attr("transform", function(d, i) { return "translate(" + width*1.05 + "," + i * 30 + ")"; });
 
-  legend.append("rect")
-    .attr("x", width*1.05)
-    .attr("width", 15)
-    .attr("height", 15)
-    .style("fill", function(d, i) { return color2(i); });
+  legend.append("circle")
+    .attr("cx", 10)
+    .attr("cy", 10)
+    .attr("r", 6)
+    .style('stroke', function (d, i) { return color2(i);})
+    .style('stroke-width', 2)
+    .style('fill', 'white')
 
   legend.append("text")
-    .attr("x", width*1.08)
-    .attr("y", 8)
+    .attr("x", 30)
+    .attr("y", 10)
     .attr("dy", ".35em")
     .text(function(d) { return d.name; });
+
 }

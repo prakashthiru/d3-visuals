@@ -9,7 +9,7 @@ function init () {
 	mObj.call_type = 'voice';
   mObj.overview_call_type = 'voice';
 
-	d3.json('data/callAnalysis.json', function(error, overall_data) {
+	d3.json('../data/callAnalysis.json', function(error, overall_data) {
 
     mObj.overall_data = overall_data;
     var data_cf = crossfilter(overall_data);
@@ -261,7 +261,7 @@ function plotOverview(settings){
 }
 
 function plotTypeStat (dataset, settings) {
-  var color = ['#EA4235', '#FABC05'];
+  var color = ['#ADABBA', '#FFB1C2'];
   var total = d3.sum(dataset, function (d){return d.value });
   
   var tip = d3.tip()
