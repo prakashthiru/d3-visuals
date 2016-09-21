@@ -12,9 +12,6 @@ var color = d3.scale.linear()
 	.domain([1, 3, 5])
 	.range(['red', 'orange', 'green']);
 
-
-plotChart(1);
-
 function plotChart(score) {
 	d3.select('#emoji-chart').select('svg').remove();
 	d3.select('#emoji-text').select('p').remove();
